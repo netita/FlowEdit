@@ -4,6 +4,12 @@
 ### My analyzes and tests of the peer review is upload here:  [Research page](https://github.com/netita/FlowEdit.git) 
 ### PDF file with explanations is here: [Research page](https://github.com/netita/FlowEdit/blob/main/FlowEdit.pdf) 
 
+### Main script is `run_script.py`
+
+### Running examples
+
+### Run editing with Flux: `python run_script.py --exp_yaml FLUX_exp.yaml`
+
 ### Official README file:
 
 [![Zero-Shot Image Editing](https://img.shields.io/badge/zero%20shot-image%20editing-Green)]([https://github.com/topics/video-editing](https://github.com/topics/text-guided-image-editing))
