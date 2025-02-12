@@ -1,8 +1,8 @@
 
 # FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models
 
-My analyzes and tests of the peer review is upload here:  [Research page](https://github.com/netita/FlowEdit.git) 
-PDF file with explanations is here: [Research page](https://github.com/netita/FlowEdit/blob/main/FlowEdit.pdf) 
+## My analyzes and tests of the peer review is upload here:  [Research page](https://github.com/netita/FlowEdit.git) 
+## PDF file with explanations is here: [Research page](https://github.com/netita/FlowEdit/blob/main/FlowEdit.pdf) 
 
 ### Official README file:
 
