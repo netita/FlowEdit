@@ -1,8 +1,15 @@
+
+# FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models
+
+My analyzes and tests of the peer review is upload here:  [Research page](https://github.com/netita/FlowEdit.git) 
+PDF file with explanations is here: [Research page](https://github.com/netita/FlowEdit/blob/main/FlowEdit.pdf) 
+
+### Official README file:
+
 [![Zero-Shot Image Editing](https://img.shields.io/badge/zero%20shot-image%20editing-Green)]([https://github.com/topics/video-editing](https://github.com/topics/text-guided-image-editing))
 [![Python](https://img.shields.io/badge/python-3.8+-blue?python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/release/python-38/)
 ![PyTorch](https://img.shields.io/badge/torch-2.0.0-red?PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-# FlowEdit
 
 [Project](https://matankleiner.github.io/flowedit/) | [Arxiv](https://arxiv.org/abs/2412.08629) | [Demo](https://huggingface.co/spaces/fallenshock/FlowEdit) | [ComfyUI](#comfyui-implementation-for-different-models)
 
